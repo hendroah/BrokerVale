@@ -244,11 +244,9 @@
         <div class="max-w-4xl mx-auto px-4 relative z-10 text-center bg-slate-800 border border-slate-700 p-8 md:p-12 rounded-3xl shadow-2xl">
             <h2 class="text-3xl md:text-4xl font-bold mb-4">Siap Menghasilkan Profit Konsisten?</h2>
             <p class="text-lg text-slate-300 mb-8">Proses pendaftaran cepat, kurang dari 5 menit.</p>
-            
             <div class="w-full bg-slate-900 rounded-2xl overflow-hidden border border-slate-700 mb-4 shadow-inner">
                 <iframe src="https://ma.valetaxmobile.com/embed/register/block/QgyIhHpXEWxCEGFZKL8iFt%2F%2B1zTcKbdeuPARQ6ynEhd%2ByeYF29DUa1NtrArMU%2FRuZANi92d8EnXg6KXUrnCwrTw1AUHEDjdzm04mf9KbY7q7Zg9UXW%2BLq%2BUQoOBYBYzA?lang=id&background=green" width="100%" height="490px" class="border-0 w-full" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
             </div>
-
             <div class="mb-8">
                 <p class="text-sm text-red-400 mb-3"><i class="fa-solid fa-circle-info"></i> Formulir error?</p>
                 <a href="https://ma.valetax-indonesia.com/p/2999665" t

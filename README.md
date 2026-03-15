@@ -132,7 +132,7 @@
                 <div class="relative hidden lg:block">
                     <!-- Placeholder for Trading Illustration/Mockup -->
                     <div class="relative rounded-2xl border border-slate-700 bg-slate-800/50 p-2 shadow-2xl backdrop-blur-sm">
-                        <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Trading Dashboard" class="rounded-xl opacity-80 hover:opacity-100 transition duration-500">
+                        <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Trading Dashboard" class="rounded-xl opacity-90 hover:opacity-100 transition duration-500 w-full aspect-video object-cover">
                     </div>
                 </div>
             </div>
@@ -173,28 +173,49 @@
                 
                 <!-- Kotak Grup Free -->
                 <div class="grid sm:grid-cols-3 gap-6 text-left">
-                    <a href="https://chat.whatsapp.com/LL1VW32Cp5HFX1n45i7LYO" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
-                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
-                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                    <a href="https://chat.whatsapp.com/LL1VW32Cp5HFX1n45i7LYO" target="_blank" class="relative overflow-hidden bg-slate-900 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <!-- Background Image & Overlay -->
+                        <div class="absolute inset-0 bg-[url('https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg')] bg-cover bg-center opacity-40 group-hover:opacity-50 transition duration-300 group-hover:scale-105"></div>
+                        <div class="absolute inset-0 bg-slate-900/60 transition duration-300 group-hover:bg-slate-900/40"></div>
+                        
+                        <!-- Content -->
+                        <div class="relative z-10">
+                            <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300 border border-brand-500/30 overflow-hidden shadow-sm relative">
+                                <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Logo Grup 1" class="w-full h-full object-cover">
+                            </div>
+                            <h4 class="text-lg font-bold mb-1 text-white drop-shadow-md">Grup Free 1</h4>
+                            <p class="text-sm text-slate-200 group-hover:text-brand-300 transition drop-shadow-md">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                         </div>
-                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 1</h4>
-                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                     </a>
 
-                    <a href="https://chat.whatsapp.com/EasRNABfvdKIGYmzJFkd2A" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
-                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
-                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                    <a href="https://chat.whatsapp.com/EasRNABfvdKIGYmzJFkd2A" target="_blank" class="relative overflow-hidden bg-slate-900 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <!-- Background Image & Overlay -->
+                        <div class="absolute inset-0 bg-[url('https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg')] bg-cover bg-center opacity-40 group-hover:opacity-50 transition duration-300 group-hover:scale-105"></div>
+                        <div class="absolute inset-0 bg-slate-900/60 transition duration-300 group-hover:bg-slate-900/40"></div>
+                        
+                        <!-- Content -->
+                        <div class="relative z-10">
+                            <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300 border border-brand-500/30 overflow-hidden shadow-sm relative">
+                                <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Logo Grup 2" class="w-full h-full object-cover">
+                            </div>
+                            <h4 class="text-lg font-bold mb-1 text-white drop-shadow-md">Grup Free 2</h4>
+                            <p class="text-sm text-slate-200 group-hover:text-brand-300 transition drop-shadow-md">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                         </div>
-                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 2</h4>
-                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                     </a>
 
-                    <a href="https://chat.whatsapp.com/GSE4BpLdWTj0tTp4AVnr68" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
-                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
-                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                    <a href="https://chat.whatsapp.com/GSE4BpLdWTj0tTp4AVnr68" target="_blank" class="relative overflow-hidden bg-slate-900 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <!-- Background Image & Overlay -->
+                        <div class="absolute inset-0 bg-[url('https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg')] bg-cover bg-center opacity-40 group-hover:opacity-50 transition duration-300 group-hover:scale-105"></div>
+                        <div class="absolute inset-0 bg-slate-900/60 transition duration-300 group-hover:bg-slate-900/40"></div>
+                        
+                        <!-- Content -->
+                        <div class="relative z-10">
+                            <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300 border border-brand-500/30 overflow-hidden shadow-sm relative">
+                                <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Logo Grup 3" class="w-full h-full object-cover">
+                            </div>
+                            <h4 class="text-lg font-bold mb-1 text-white drop-shadow-md">Grup Free 3</h4>
+                            <p class="text-sm text-slate-200 group-hover:text-brand-300 transition drop-shadow-md">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                         </div>
-                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 3</h4>
-                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
                     </a>
                 </div>
             </div>
@@ -262,43 +283,4 @@
         <div class="absolute inset-0 bg-brand-900/20"></div>
         <div class="max-w-4xl mx-auto px-4 relative z-10 text-center bg-slate-800 border border-slate-700 p-8 md:p-12 rounded-3xl shadow-2xl">
             <h2 class="text-3xl md:text-4xl font-bold mb-4">Siap Menghasilkan Profit Konsisten?</h2>
-            <p class="text-lg text-slate-300 mb-8">Isi formulir di bawah ini untuk membuka akun secara langsung. Proses pendaftaran cepat, kurang dari 5 menit.</p>
-            
-            <!-- Iframe Pendaftaran Valetax -->
-            <div class="w-full bg-slate-900 rounded-2xl overflow-hidden shadow-inner border border-slate-700 mb-4">
-                <iframe src="https://ma.valetaxmobile.com/embed/register/block/QgyIhHpXEWxCEGFZKL8iFt%2F%2B1zTcKbdeuPARQ6ynEhd%2ByeYF29DUa1NtrArMU%2FRuZANi92d8EnXg6KXUrnCwrTw1AUHEDjdzm04mf9KbY7q7Zg9UXW%2BLq%2BUQoOBYBYzA?lang=id&background=green" width="100%" height="490px" title="Valetax Registration" class="border-0 w-full" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
-            </div>
-
-            <!-- Tombol Alternatif Jika Iframe Error -->
-            <div class="mb-8">
-                <p class="text-sm text-red-400 mb-3"><i class="fa-solid fa-circle-info"></i> Formulir error atau Captcha tidak valid?</p>
-                <a href="https://ma.valetax-indonesia.com/p/2999665" target="_blank" class="inline-flex items-center justify-center bg-brand-600 hover:bg-brand-700 text-white px-6 py-2.5 rounded-full font-semibold transition shadow-lg shadow-brand-500/30">
-                    Daftar via Link Resmi <i class="fa-solid fa-arrow-up-right-from-square ml-2"></i>
-                </a>
-            </div>
-            
-            <div class="flex justify-center">
-                <a href="https://wa.me/6288293951568" target="_blank" class="bg-slate-700 hover:bg-slate-600 text-white px-8 py-3 rounded-full font-bold transition w-full sm:w-auto flex items-center justify-center gap-2">
-                    <i class="fa-brands fa-whatsapp text-green-500 text-xl"></i> Butuh Bantuan? Hubungi Admin
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="bg-slate-950 pt-16 pb-8 border-t border-slate-800 text-slate-400 text-sm">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="grid md:grid-cols-4 gap-8 mb-12">
-                <div class="md:col-span-2">
-                    <div class="flex items-center gap-2 mb-6">
-                        <i class="fa-solid fa-chart-line text-brand-500 text-2xl"></i>
-                        <span class="font-bold text-xl text-white tracking-tight">Valetax</span>
-                    </div>
-                    <p class="mb-6 leading-relaxed pr-4">
-                        Kami adalah Introducing Broker resmi yang berdedikasi membantu trader Indonesia meraih kesuksesan finansial melalui layanan edukasi, sinyal premium, dan program rebate terbaik.
-                    </p>
-                </div>
-                
-                <div>
-                    <h4 class="text-white font-bold mb-6 uppercase text-sm tracking-wider">Tautan Cepat</h4>
-                    
+            <p c

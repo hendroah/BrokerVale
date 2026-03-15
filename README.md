@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hend | Partner Trading Terbaik Anda</title>
+    <title>Valetax | Partner Trading Terbaik Anda</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -15,12 +16,12 @@
                     },
                     colors: {
                         brand: {
-                            50: '#eff6ff',
-                            100: '#dbeafe',
-                            500: '#3b82f6',
-                            600: '#2563eb',
-                            700: '#1d4ed8',
-                            900: '#1e3a8a',
+                            50: '#f0fdf4',
+                            100: '#dcfce7',
+                            500: '#22c55e',
+                            600: '#16a34a',
+                            700: '#15803d',
+                            900: '#14532d',
                         },
                         accent: {
                             500: '#eab308', // Gold
@@ -38,24 +39,24 @@
             color: #f8fafc; /* slate-50 */
         }
         .gradient-text {
-            background: linear-gradient(to right, #3b82f6, #60a5fa);
+            background: linear-gradient(to right, #22c55e, #4ade80);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
         .gradient-bg {
-            background: linear-gradient(135deg, rgba(30, 58, 138, 0.2) 0%, rgba(15, 23, 42, 1) 100%);
+            background: linear-gradient(135deg, rgba(20, 83, 45, 0.2) 0%, rgba(15, 23, 42, 1) 100%);
         }
     </style>
 </head>
 <body class="antialiased selection:bg-brand-500 selection:text-white">
 
     <!-- Navigation -->
-    <nav class="fixed w-full z-50 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 transition-all duration-300" id="navbar">
+    <nav class="fixed top-0 left-0 w-full z-50 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 transition-all duration-300" id="navbar">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-20">
                 <div class="flex items-center gap-2 cursor-pointer">
                     <i class="fa-solid fa-chart-line text-brand-500 text-3xl"></i>
-                    <span class="font-bold text-2xl tracking-tight">Hend</span>
+                    <span class="font-bold text-2xl tracking-tight">Valetax</span>
                 </div>
                 
                 <!-- Desktop Menu -->
@@ -261,17 +262,11 @@
                 <div class="md:col-span-2">
                     <div class="flex items-center gap-2 mb-6">
                         <i class="fa-solid fa-chart-line text-brand-500 text-2xl"></i>
-                        <span class="font-bold text-xl text-white tracking-tight">Hend</span>
+                        <span class="font-bold text-xl text-white tracking-tight">Valetax</span>
                     </div>
                     <p class="mb-6 leading-relaxed pr-4">
                         Kami adalah Introducing Broker resmi yang berdedikasi membantu trader Indonesia meraih kesuksesan finansial melalui layanan edukasi, sinyal premium, dan program rebate terbaik.
                     </p>
-                    <div class="flex gap-4">
-                        <a href="#" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-brand-600 hover:text-white transition"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-brand-600 hover:text-white transition"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-brand-600 hover:text-white transition"><i class="fa-brands fa-telegram"></i></a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-brand-600 hover:text-white transition"><i class="fa-brands fa-youtube"></i></a>
-                    </div>
                 </div>
                 
                 <div>
@@ -292,7 +287,7 @@
                         </li>
                         <li class="flex items-center gap-3">
                             <i class="fa-solid fa-envelope text-slate-500"></i>
-                            <a href="mailto:support@hend.com" class="hover:text-white transition">support@hend.com</a>
+                            <a href="mailto:support@valetax.com" class="hover:text-white transition">support@valetax.com</a>
                         </li>
                         <li class="flex items-center gap-3">
                             <i class="fa-brands fa-whatsapp text-slate-500 text-lg"></i>
@@ -305,4 +300,7 @@
             <div class="border-t border-slate-800 pt-8">
                 <div class="bg-red-900/20 border border-red-900/50 p-4 rounded-lg mb-8">
                     <h5 class="text-red-400 font-bold mb-2 flex items-center gap-2"><i class="fa-solid fa-triangle-exclamation"></i> Peringatan Risiko Tertinggi:</h5>
-                    <p class="text-xs text-slate-500 
+                    <p class="text-xs text-slate-500 leading-relaxed">
+                        Trading Forex, CFD, dan Cryptocurrency dengan margin membawa tingkat risiko tinggi, dan mungkin tidak cocok untuk semua investor. Tingkat leverage yang tinggi dapat bekerja melawan Anda maupun untuk Anda. Sebelum memutuskan untuk berdagang, Anda harus mempertimbangkan dengan cermat tujuan investasi, tingkat pengalaman, dan selera risiko Anda. Ada kemungkinan Anda bisa mengalami kehilangan sebagian atau seluruh investasi awal Anda. Oleh karena itu, Anda tidak boleh menginvestasikan uang yang Anda tidak rela untuk kehilangannya. Anda harus menyadari semua risiko yang terkait dengan perdagangan dan mencari nasihat dari penasihat keuangan independen jika Anda memiliki keraguan. Website ini hanya bersifat informasi dan edukasi, bukan ajakan untuk berinvestasi.
+                    </p>
+                </div>

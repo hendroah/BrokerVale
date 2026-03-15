@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Valetax | Partner Trading Terbaik Anda</title>
+    <title>ZUTTRADE | Partner Trading Terbaik Anda</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -55,8 +55,8 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-20">
                 <div class="flex items-center gap-2 cursor-pointer">
-                    <i class="fa-solid fa-chart-line text-brand-500 text-3xl"></i>
-                    <span class="font-bold text-2xl tracking-tight">Valetax</span>
+                    <i class="fa-solid fa-chart-line text-accent-500 text-3xl"></i>
+                    <span class="font-bold text-2xl tracking-tight">ZUTTRADE</span>
                 </div>
                 
                 <!-- Desktop Menu -->
@@ -131,8 +131,8 @@
                 
                 <div class="relative hidden lg:block">
                     <!-- Placeholder for Trading Illustration/Mockup -->
-                    <div class="relative rounded-2xl border border-slate-700 bg-slate-800/50 p-2 shadow-2xl backdrop-blur-sm">
-                        <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Trading Dashboard" class="rounded-xl opacity-90 hover:opacity-100 transition duration-500 w-full aspect-video object-cover">
+                    <div class="relative rounded-2xl border border-slate-700 bg-slate-800/50 p-2 shadow-2xl backdrop-blur-sm flex justify-center">
+                        <img src="https://raw.githubusercontent.com/hendroah/BrokerVale/2b10cf94d1d4e61c9096995eb8d31e4e13f046dd/GRUP%20UMUM%20ZUTRADE%203%2020260315_120727.jpg" alt="Trading Dashboard" class="rounded-xl opacity-90 hover:opacity-100 transition duration-500 w-full h-auto object-contain">
                     </div>
                 </div>
             </div>
@@ -220,67 +220,56 @@
                 </div>
             </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <!-- Feature 1 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-brand-900/50 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-hand-holding-dollar text-brand-400 text-2xl"></i>
+            <div class="grid md:grid-cols-2 gap-8">
+                <!-- Feature 1: Sinyal VIP Premium -->
+                <div class="relative overflow-hidden bg-slate-900 rounded-2xl p-8 border border-slate-700 hover:border-accent-500/50 transition duration-300 group shadow-lg">
+                    <!-- Background & Overlay -->
+                    <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1642543492481-44e81e391452?auto=format&fit=crop&w=800&q=80')] bg-cover bg-center opacity-60 group-hover:opacity-80 transition duration-500 group-hover:scale-105"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-slate-900/20 transition duration-300 group-hover:opacity-80"></div>
+                    
+                    <!-- Content -->
+                    <div class="relative z-10">
+                        <div class="w-14 h-14 bg-accent-900/80 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300 backdrop-blur-md border border-accent-500/30">
+                            <i class="fa-solid fa-gem text-accent-500 text-2xl"></i>
+                        </div>
+                        <h4 class="text-xl font-bold mb-3 text-white drop-shadow-xl">Sinyal VIP Premium</h4>
+                        <p class="text-slate-100 font-medium leading-relaxed drop-shadow-lg">Akses ke grup Telegram VIP kami. Dapatkan 3-5 sinyal harian dengan akurasi tinggi lengkap dengan Take Profit & Stop Loss.</p>
                     </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Rebate Mingguan</h4>
-                    <p class="text-slate-400 leading-relaxed">Dapatkan pengembalian dana (rebate) hingga 80% dari komisi IB setiap minggunya, loss atau profit Anda tetap dibayar.</p>
                 </div>
 
-                <!-- Feature 2 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-accent-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-accent-900/30 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-gem text-accent-500 text-2xl"></i>
+                <!-- Feature 2: Edukasi & Mentoring -->
+                <div class="relative overflow-hidden bg-slate-900 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group shadow-lg">
+                    <!-- Background & Overlay -->
+                    <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80')] bg-cover bg-center opacity-60 group-hover:opacity-80 transition duration-500 group-hover:scale-105"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-slate-900/20 transition duration-300 group-hover:opacity-80"></div>
+                    
+                    <!-- Content -->
+                    <div class="relative z-10">
+                        <div class="w-14 h-14 bg-brand-900/80 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300 backdrop-blur-md border border-brand-500/30">
+                            <i class="fa-solid fa-graduation-cap text-brand-400 text-2xl"></i>
+                        </div>
+                        <h4 class="text-xl font-bold mb-3 text-white drop-shadow-xl">Edukasi & Mentoring</h4>
+                        <p class="text-slate-100 font-medium leading-relaxed drop-shadow-lg">Materi belajar lengkap dari basic hingga advance. Sesi Live Zoom mingguan untuk analisa market bersama.</p>
                     </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Sinyal VIP Premium</h4>
-                    <p class="text-slate-400 leading-relaxed">Akses ke grup Telegram VIP kami. Dapatkan 3-5 sinyal harian dengan akurasi tinggi lengkap dengan Take Profit & Stop Loss.</p>
                 </div>
 
-                <!-- Feature 3 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-brand-900/50 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-graduation-cap text-brand-400 text-2xl"></i>
+                <!-- Feature 3: Support Prioritas -->
+                <div class="relative overflow-hidden bg-slate-900 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group shadow-lg">
+                    <!-- Background & Overlay -->
+                    <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=80')] bg-cover bg-center opacity-60 group-hover:opacity-80 transition duration-500 group-hover:scale-105"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/50 to-slate-900/20 transition duration-300 group-hover:opacity-80"></div>
+                    
+                    <!-- Content -->
+                    <div class="relative z-10">
+                        <div class="w-14 h-14 bg-brand-900/80 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300 backdrop-blur-md border border-brand-500/30">
+                            <i class="fa-solid fa-headset text-brand-400 text-2xl"></i>
+                        </div>
+                        <h4 class="text-xl font-bold mb-3 text-white drop-shadow-xl">Support Prioritas</h4>
+                        <p class="text-slate-100 font-medium leading-relaxed drop-shadow-lg">Kendala deposit, withdrawal, atau pertanyaan teknis? Tim kami siap membantu menjembatani Anda dengan broker.</p>
                     </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Edukasi & Mentoring</h4>
-                    <p class="text-slate-400 leading-relaxed">Materi belajar lengkap dari basic hingga advance. Sesi Live Zoom mingguan untuk analisa market bersama.</p>
                 </div>
 
-                <!-- Feature 4 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-brand-900/50 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-robot text-brand-400 text-2xl"></i>
-                    </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Akses EA / Robot Trading</h4>
-                    <p class="text-slate-400 leading-relaxed">Dapatkan Expert Advisor (EA) teruji yang kami kembangkan sendiri untuk trading otomatis secara gratis.</p>
-                </div>
-
-                <!-- Feature 5 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-brand-900/50 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-headset text-brand-400 text-2xl"></i>
-                    </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Support Prioritas</h4>
-                    <p class="text-slate-400 leading-relaxed">Kendala deposit, withdrawal, atau pertanyaan teknis? Tim kami siap membantu menjembatani Anda dengan broker.</p>
-                </div>
-
-                <!-- Feature 6 -->
-                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group">
-                    <div class="w-14 h-14 bg-brand-900/50 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition duration-300">
-                        <i class="fa-solid fa-users text-brand-400 text-2xl"></i>
-                    </div>
-                    <h4 class="text-xl font-bold mb-3 text-white">Komunitas Solid</h4>
-                    <p class="text-slate-400 leading-relaxed">Bergabung dengan ribuan trader lainnya. Diskusi, berbagi analisa, dan tumbuh bersama dalam lingkungan yang positif.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- CTA Section -->
-    <section id="daftar" class="py-20 relative overflow-hidden">
-        <div class="absolute inset-0 bg-brand-900/20"></div>
-        <div class="max-w-4xl mx-auto px-4 relative z-10 text-center bg-slate-800 border border-slate-700 p-8 md:p-12 rounded-3xl shadow-2xl">
-            <h2 class="text-3xl md:text-4xl font-bold mb-4">Siap Menghasilkan Profit Konsisten?</h2>
-            <p c
+                <!-- Feature 4: Komunitas Solid -->
+                <div class="relative overflow-hidden bg-slate-900 rounded-2xl p-8 border border-slate-700 hover:border-brand-500/50 transition duration-300 group shadow-lg">
+                    <!-- Background & Overlay -->
+                    <div class="absolute inset-0 bg-

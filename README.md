@@ -98,9 +98,12 @@
                         <span class="flex h-2 w-2 rounded-full bg-brand-500"></span>
                         Partner Resmi Broker Terpercaya 2026
                     </div>
-                    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6 leading-tight">
+                    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-3 leading-tight">
                         Maksimalkan Profit Anda dengan <span class="gradient-text">Fasilitas VIP</span>
                     </h1>
+                    <h2 class="text-2xl sm:text-3xl font-bold text-brand-400 mb-4 tracking-wide drop-shadow-md">
+                        TRADER'S HOOD FAMILY 📊
+                    </h2>
                     <p class="text-lg text-slate-400 mb-8 max-w-2xl mx-auto lg:mx-0">
                         Bergabunglah dengan komunitas trader pemenang. Dapatkan rebate tertinggi, sinyal trading akurat setiap hari, dan edukasi eksklusif tanpa biaya tambahan.
                     </p>
@@ -108,7 +111,7 @@
                         <a href="#daftar" class="bg-brand-600 hover:bg-brand-700 text-white px-8 py-4 rounded-full font-bold text-lg transition shadow-lg shadow-brand-500/30 flex items-center justify-center gap-2">
                             Buka Akun Broker <i class="fa-solid fa-arrow-right"></i>
                         </a>
-                        <a href="https://wa.me/6282141400807" target="_blank" class="bg-slate-800 hover:bg-slate-700 border border-slate-700 text-white px-8 py-4 rounded-full font-bold text-lg transition flex items-center justify-center gap-2">
+                        <a href="https://wa.me/6288293951568" target="_blank" class="bg-slate-800 hover:bg-slate-700 border border-slate-700 text-white px-8 py-4 rounded-full font-bold text-lg transition flex items-center justify-center gap-2">
                             <i class="fa-brands fa-whatsapp text-green-500 text-xl"></i> Tanya Admin
                         </a>
                     </div>
@@ -163,10 +166,37 @@
     <!-- Keuntungan Section -->
     <section id="keuntungan" class="py-24 relative">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center max-w-3xl mx-auto mb-16">
+            <div class="text-center max-w-4xl mx-auto mb-16">
                 <h2 class="text-brand-500 font-semibold tracking-wide uppercase text-sm mb-2">MENGAPA MEMILIH KAMI?</h2>
                 <h3 class="text-3xl md:text-4xl font-bold mb-4">Fasilitas Eksklusif Klien Kami</h3>
-                <p class="text-slate-400 text-lg">Kami tidak hanya menyediakan link pendaftaran, tapi kami memastikan Anda memiliki 'senjata' lengkap untuk bertempur di market.</p>
+                <p class="text-slate-400 text-lg mb-10">Kami tidak hanya menyediakan link pendaftaran, tapi kami memastikan Anda memiliki 'senjata' lengkap untuk bertempur di market.</p>
+                
+                <!-- Kotak Grup Free -->
+                <div class="grid sm:grid-cols-3 gap-6 text-left">
+                    <a href="https://chat.whatsapp.com/LL1VW32Cp5HFX1n45i7LYO" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
+                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                        </div>
+                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 1</h4>
+                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
+                    </a>
+
+                    <a href="https://chat.whatsapp.com/EasRNABfvdKIGYmzJFkd2A" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
+                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                        </div>
+                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 2</h4>
+                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
+                    </a>
+
+                    <a href="https://chat.whatsapp.com/GSE4BpLdWTj0tTp4AVnr68" target="_blank" class="bg-slate-800 rounded-2xl p-6 border border-slate-700 hover:border-brand-500/50 transition duration-300 group block shadow-lg">
+                        <div class="w-12 h-12 bg-brand-900/50 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition duration-300">
+                            <i class="fa-solid fa-users text-brand-400 text-xl"></i>
+                        </div>
+                        <h4 class="text-lg font-bold mb-1 text-white">Grup Free 3</h4>
+                        <p class="text-sm text-slate-400 group-hover:text-brand-400 transition">Klik untuk bergabung <i class="fa-solid fa-arrow-right text-xs ml-1"></i></p>
+                    </a>
+                </div>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -248,7 +278,7 @@
             </div>
             
             <div class="flex justify-center">
-                <a href="https://wa.me/6282141400807" target="_blank" class="bg-slate-700 hover:bg-slate-600 text-white px-8 py-3 rounded-full font-bold transition w-full sm:w-auto flex items-center justify-center gap-2">
+                <a href="https://wa.me/6288293951568" target="_blank" class="bg-slate-700 hover:bg-slate-600 text-white px-8 py-3 rounded-full font-bold transition w-full sm:w-auto flex items-center justify-center gap-2">
                     <i class="fa-brands fa-whatsapp text-green-500 text-xl"></i> Butuh Bantuan? Hubungi Admin
                 </a>
             </div>
@@ -271,36 +301,4 @@
                 
                 <div>
                     <h4 class="text-white font-bold mb-6 uppercase text-sm tracking-wider">Tautan Cepat</h4>
-                    <ul class="space-y-3">
-                        <li><a href="#home" class="hover:text-brand-400 transition">Beranda</a></li>
-                        <li><a href="#keuntungan" class="hover:text-brand-400 transition">Keuntungan VIP</a></li>
-                        <li><a href="#" class="hover:text-brand-400 transition">Kalkulator Rebate</a></li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h4 class="text-white font-bold mb-6 uppercase text-sm tracking-wider">Kontak</h4>
-                    <ul class="space-y-4">
-                        <li class="flex items-start gap-3">
-                            <i class="fa-solid fa-location-dot mt-1 text-slate-500"></i>
-                            <span>Jakarta, Indonesia</span>
-                        </li>
-                        <li class="flex items-center gap-3">
-                            <i class="fa-solid fa-envelope text-slate-500"></i>
-                            <a href="mailto:support@valetax.com" class="hover:text-white transition">support@valetax.com</a>
-                        </li>
-                        <li class="flex items-center gap-3">
-                            <i class="fa-brands fa-whatsapp text-slate-500 text-lg"></i>
-                            <a href="https://wa.me/6282141400807" class="hover:text-white transition">+62 821-4140-0807</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="border-t border-slate-800 pt-8">
-                <div class="bg-red-900/20 border border-red-900/50 p-4 rounded-lg mb-8">
-                    <h5 class="text-red-400 font-bold mb-2 flex items-center gap-2"><i class="fa-solid fa-triangle-exclamation"></i> Peringatan Risiko Tertinggi:</h5>
-                    <p class="text-xs text-slate-500 leading-relaxed">
-                        Trading Forex, CFD, dan Cryptocurrency dengan margin membawa tingkat risiko tinggi, dan mungkin tidak cocok untuk semua investor. Tingkat leverage yang tinggi dapat bekerja melawan Anda maupun untuk Anda. Sebelum memutuskan untuk berdagang, Anda harus mempertimbangkan dengan cermat tujuan investasi, tingkat pengalaman, dan selera risiko Anda. Ada kemungkinan Anda bisa mengalami kehilangan sebagian atau seluruh investasi awal Anda. Oleh karena itu, Anda tidak boleh menginvestasikan uang yang Anda tidak rela untuk kehilangannya. Anda harus menyadari semua risiko yang terkait dengan perdagangan dan mencari nasihat dari penasihat keuangan independen jika Anda memiliki keraguan. Website ini hanya bersifat informasi dan edukasi, bukan ajakan untuk berinvestasi.
-                    </p>
-                </div>
+                    
